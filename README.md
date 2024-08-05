@@ -1,16 +1,6 @@
-# mind_mate
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2024-08-05_09-24-58](https://github.com/user-attachments/assets/1050ad83-5cb2-47c5-aa0c-8cf647dbe53f)
+![photo_2024-08-05_09-24-33](https://github.com/user-attachments/assets/b20eb5f7-ae06-4751-ab65-1b0984971d95)
+![photo_2024-08-05_09-24-54](https://github.com/user-attachments/assets/49fb12ab-714d-47c0-8270-2f6dcbd16641)
+![photo_2024-08-05_09-24-46](https://github.com/user-attachments/assets/86c8d0e5-1046-4529-a60e-efe0a5cfc092)
+![photo_2024-08-05_09-24-42](https://github.com/user-attachments/assets/90d6bcfc-490a-42ff-968a-b08ab6e4e007)
+![photo_2024-08-05_09-24-37](https://github.com/user-attachments/assets/7d2995dd-428f-4f2d-92fe-b297c0eac1d6)
